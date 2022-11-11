@@ -1,2 +1,2 @@
-# SQLL Server 2019 & TSQL Lösningsförslag
-Innehåller lösningsförslag till ITHS SQL Server kurs
+# SQL Server 2019 & T-SQL
+Innehåller Exempel och lösningsförslag till ITHS SQL Server kurs
